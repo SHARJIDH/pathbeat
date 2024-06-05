@@ -1,0 +1,36 @@
+.movie-detail {
+  padding: 20px;
+  text-align: center;
+}
+
+.movie-title {
+  font-size: 56px;
+  margin-bottom: 20px;
+}
+
+.movie-image {
+  max-width: 100%;
+  height: auto;
+  margin: 20px 0;
+}
+
+.placeholder-image {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f0f0;
+  color: #888;
+  font-size: 24px;
+  margin: 20px auto;
+}
+
+.movie-description {
+  font-size: 30px;
+  text-align: center;
+}
+
+.highlight-name {
+  color: blue;
+}

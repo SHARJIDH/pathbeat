@@ -1,0 +1,11 @@
+body,
+.movie-list-container {
+  background-color: black;
+  color: white;
+}
+
+.page-heading {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
